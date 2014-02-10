@@ -12,3 +12,7 @@ If divisible by 3        print Fizz
 If divisible by 5        print Buzz
 
 If divisible by 7        print Sivv
+
+----
+
+####[License Info](http://johnjensen.mit-license.org)
